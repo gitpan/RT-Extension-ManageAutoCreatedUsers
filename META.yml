@@ -1,0 +1,30 @@
+---
+abstract: 'RT Extension-ManageAutoCreatedUsers Extension'
+author:
+  - 'Wallace Reis <wreis@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.36
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.08'
+license: gplv2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: RT-Extension-ManageAutoCreatedUsers
+no_index:
+  directory:
+    - html
+    - inc
+    - static
+    - xt
+requires:
+  Class::Method::Modifiers: 0
+  Module::Runtime: 0
+  RT::Extension::MergeUsers: 0
+resources:
+  license: http://opensource.org/licenses/gpl-license.php
+version: '0.02'

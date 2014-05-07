@@ -1,0 +1,49 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 7764cae038491c0ff290a9d29ad37e300ea636ab Changes
+SHA1 4337161ea811a6de1a9adbe2d04f2dfe64a5604a MANIFEST
+SHA1 379c5b5ff669eb228232d2e91893475829398283 META.yml
+SHA1 088b99fb0f6fbd66703a66465a59de0e68eef6bb Makefile.PL
+SHA1 5ade10cb6568b245aeac4c9c382df8cc07c0a18a README
+SHA1 1eb9b9b1f43a1570f20480cf3585e111b2c90c1c gitignore
+SHA1 a07280c5b1d222e562d966c257d8d618c0712687 html/Admin/Tools/AutoCreatedUsers.html
+SHA1 4e24888f3dd33d86e6fca0bf89fb27b9bbf06aad html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/RT__User/ColumnMap/ColumnMap
+SHA1 cabe5c8c509fe072bf8dbe2667cc493cbde9375e html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/Tabs/Privileged
+SHA1 1bc51475bf9453bc214ab0a02162df1a506cff77 inc/Module/AutoInstall.pm
+SHA1 dc13ce0dbb488a5de81c3f6519ee31acda17397a inc/Module/Install.pm
+SHA1 43aed6ac7d779deb47cc5cab2a5ef2f040dcf8f7 inc/Module/Install/AutoInstall.pm
+SHA1 91c20cbda8ca41b4e8f9e0390faff635c2ebe839 inc/Module/Install/Base.pm
+SHA1 0c70de66cdd063352766d49db176e5f710f75fe7 inc/Module/Install/Include.pm
+SHA1 26ae1c0f5f352037b560414f216d7e3ac682f936 inc/Module/Install/Makefile.pm
+SHA1 ff97eb025b44c343d026c2a56a73d50c65319e95 inc/Module/Install/Metadata.pm
+SHA1 ef78e932fb1b2b87e0c8d10f1086907d4b3638dd inc/Module/Install/RTx.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 6ac70b84d8b7ccd53b51b3a6c42959c9789e65a2 lib/RT/Extension/ManageAutoCreatedUsers.pm
+SHA1 34d42bfd80ffbcb808edc57e59d03063d91619fd static/js/manage-autocreated-users.js
+SHA1 6856d095d5dc6b4e554dd0b2b87fabf23f2ee835 xt/basic.t
+SHA1 13a1c64dc30b79cf3c756fec4036aad6944407c7 xt/data/rt4.sql
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJTahu4AAoJEDrzFaM1yUMIM3UH/3tupnVpoQ4qqtdWBzRbaZWW
+NElXt1Nitcq/92PnBVNNeAoqkIYXSQBYcJ5AI26HFQNMUKen+U/VLlq4JdLVudRU
+iUCJRqwXrOiFHbOIXqXjNdMpQxDVoTDLP0Xn+8/Mug827Mg2uOAlJ9UUSRHHoTo6
++kqpapePacnLQC2AV1kgD95oIEXUIef6PAfE4XN6/GV1JAUjN6Xr9Nh454JfMIty
+P6IG8HxjK8qkY4xWdnwYREInGyaYLPC7cL7LcFv7ijiyrRkyuk/B5/vwBis5ViBC
+HbfeMknvo5Bh+pnkcMdRiW2ca/c7XIDfzQusK9txxIHwno53mp299jhpBqq6qqs=
+=/Lz6
+-----END PGP SIGNATURE-----
