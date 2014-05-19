@@ -27,4 +27,4 @@ requires:
   RT::Extension::MergeUsers: 0
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: '0.02'
+version: '0.03'
