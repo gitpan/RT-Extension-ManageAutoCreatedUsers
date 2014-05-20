@@ -15,35 +15,31 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 54716b93d9b236cea8fbe40c4acbcc6f766420a1 Changes
-SHA1 4337161ea811a6de1a9adbe2d04f2dfe64a5604a MANIFEST
-SHA1 18a462acd0dbc3a3ff358b39ee13686a6caf49f7 META.yml
-SHA1 088b99fb0f6fbd66703a66465a59de0e68eef6bb Makefile.PL
+SHA1 a0b18b44c25d54ff79d854c53b0255398f359d5e MANIFEST
+SHA1 b6d2325c5024b0105a1281be2d968e48e188241e META.yml
+SHA1 e7e2226d118b09b40db64c216cd8f3c03c5dba4e Makefile.PL
 SHA1 5ade10cb6568b245aeac4c9c382df8cc07c0a18a README
 SHA1 1eb9b9b1f43a1570f20480cf3585e111b2c90c1c gitignore
 SHA1 a07280c5b1d222e562d966c257d8d618c0712687 html/Admin/Tools/AutoCreatedUsers.html
 SHA1 5ad5275713807f0d75ff6642f077c3d0d4b7c59b html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/RT__User/ColumnMap/ColumnMap
 SHA1 cabe5c8c509fe072bf8dbe2667cc493cbde9375e html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/Tabs/Privileged
-SHA1 1bc51475bf9453bc214ab0a02162df1a506cff77 inc/Module/AutoInstall.pm
 SHA1 dc13ce0dbb488a5de81c3f6519ee31acda17397a inc/Module/Install.pm
-SHA1 43aed6ac7d779deb47cc5cab2a5ef2f040dcf8f7 inc/Module/Install/AutoInstall.pm
 SHA1 91c20cbda8ca41b4e8f9e0390faff635c2ebe839 inc/Module/Install/Base.pm
-SHA1 0c70de66cdd063352766d49db176e5f710f75fe7 inc/Module/Install/Include.pm
 SHA1 26ae1c0f5f352037b560414f216d7e3ac682f936 inc/Module/Install/Makefile.pm
 SHA1 ff97eb025b44c343d026c2a56a73d50c65319e95 inc/Module/Install/Metadata.pm
 SHA1 ef78e932fb1b2b87e0c8d10f1086907d4b3638dd inc/Module/Install/RTx.pm
-SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 c6310bcaacedc60d4c19beb50880775485c1a9ac lib/RT/Extension/ManageAutoCreatedUsers.pm
+SHA1 cac7737ef413364c1bfe806ff3fee12f4738d400 lib/RT/Extension/ManageAutoCreatedUsers.pm
 SHA1 34d42bfd80ffbcb808edc57e59d03063d91619fd static/js/manage-autocreated-users.js
 SHA1 6856d095d5dc6b4e554dd0b2b87fabf23f2ee835 xt/basic.t
 SHA1 13a1c64dc30b79cf3c756fec4036aad6944407c7 xt/data/rt4.sql
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJTefg4AAoJEDrzFaM1yUMIlKsIALQcU0R9oK5m2Xv/PQuTrP65
-6ewAsIsrU1RAVWAHm1Z/l3doQ7e7AwFut7LS/nFhh21J1dDWUCdZQCJ595zRnY/H
-8IRLKJZlIqF0nKI6gUsWTR28ktL2J6QBld43V6WyoXZGvOlxcrvLfVcNF9Hgo/a5
-uXe0bbWABB3EokZsBI0xqkiewbaG9Jv+wNfHIn+qw3nFQFlrz7H4DguABUBCzoJM
-A78QvBQ/RzswlO0HS8N3NN6lPIcqZdp9yyhjCzcoubtZxS2vx7g3obQagW7xnqCC
-IG43sGNb8c3+m6TFx2nVyv3g7BgArub8tZbPnmYB6UQzpBONux7aZSq9k14tdIA=
-=Te7S
+iQEcBAEBAgAGBQJTez4pAAoJEDrzFaM1yUMI8jgH/jzryurzYdoODPTfSVeRWJYm
+X7crBjgBETrBYJDKynqSbewin27n1EYTwd/SxDF5vVTAg6t2WQGXS1nhHX2aYSi7
+gFRKBI9ueCYltQYYVb7BEgtPfC1d7v+YO6KMlK/ZwYGBIJ53y9zRN4vIoviyJMwW
+waBJ7WBCMLB1rvSwEjuE+fYV44fK+7wbMM6gBLetcgAVAPRovPo/iBSX51xjZ3Yi
+minvIFgfPK+6NH2qR4D282eK5ExdQPED1KwfGZM90mFW/86nKKDDwFbuVK1AQX8g
+HtIVIFOmdXruer+hQSG+jirAS15MXQELaAIha64ufAXDr1l4usGIbiSYDgVGczA=
+=5FWb
 -----END PGP SIGNATURE-----

@@ -21,10 +21,12 @@ no_index:
     - inc
     - static
     - xt
+  package:
+    - RT::User
 requires:
   Class::Method::Modifiers: 0
   Module::Runtime: 0
   RT::Extension::MergeUsers: 0
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: '0.03'
+version: '0.04'
