@@ -14,9 +14,9 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 32d2c5ac3a869ed96a5c638396e7698d1abe7220 Changes
-SHA1 64f2da6704d14a2ed095ffa8e024023bdaf06d83 MANIFEST
-SHA1 abbdca5b7acd3f6d8af08a26d924de1400941e87 META.yml
+SHA1 fd50421900c8f82bb27d6ab73c1bfce9560c535a Changes
+SHA1 75b6aaf88f0f9e06c3d798731fb2cb09ce540e04 MANIFEST
+SHA1 b7e2cb00a7361dde7d2531a731c18fd1ba688652 META.yml
 SHA1 e7e2226d118b09b40db64c216cd8f3c03c5dba4e Makefile.PL
 SHA1 5ade10cb6568b245aeac4c9c382df8cc07c0a18a README
 SHA1 1eb9b9b1f43a1570f20480cf3585e111b2c90c1c gitignore
@@ -27,27 +27,23 @@ SHA1 1bc51475bf9453bc214ab0a02162df1a506cff77 inc/Module/AutoInstall.pm
 SHA1 dc13ce0dbb488a5de81c3f6519ee31acda17397a inc/Module/Install.pm
 SHA1 43aed6ac7d779deb47cc5cab2a5ef2f040dcf8f7 inc/Module/Install/AutoInstall.pm
 SHA1 91c20cbda8ca41b4e8f9e0390faff635c2ebe839 inc/Module/Install/Base.pm
-SHA1 eaf50ccbacecb797f0527deb0221c8264f6c8bd8 inc/Module/Install/Can.pm
-SHA1 363c8931cc183444907684b71d6a379e4fc8edcb inc/Module/Install/Fetch.pm
 SHA1 0c70de66cdd063352766d49db176e5f710f75fe7 inc/Module/Install/Include.pm
 SHA1 26ae1c0f5f352037b560414f216d7e3ac682f936 inc/Module/Install/Makefile.pm
 SHA1 ff97eb025b44c343d026c2a56a73d50c65319e95 inc/Module/Install/Metadata.pm
 SHA1 ef78e932fb1b2b87e0c8d10f1086907d4b3638dd inc/Module/Install/RTx.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 4c5ce519d404e242418f51dfe761287469e18e3a inc/Module/Install/Win32.pm
-SHA1 47a52cf8719a283c0efa2edab0088b5d67e0f23a inc/Module/Install/WriteAll.pm
-SHA1 d87e22f6348f96e7ecb3ca72035dc3bcfb5216ce lib/RT/Extension/ManageAutoCreatedUsers.pm
-SHA1 34d42bfd80ffbcb808edc57e59d03063d91619fd static/js/manage-autocreated-users.js
+SHA1 254ccf737db2991709712718b7abe5ff12c9a202 lib/RT/Extension/ManageAutoCreatedUsers.pm
+SHA1 b203393260c06bef777dc3620ee0ff584cdc3d43 static/js/manage-autocreated-users.js
 SHA1 6856d095d5dc6b4e554dd0b2b87fabf23f2ee835 xt/basic.t
 SHA1 13a1c64dc30b79cf3c756fec4036aad6944407c7 xt/data/rt4.sql
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJTgMEzAAoJEDrzFaM1yUMIpesH/2lK2jgAj9og23NZkEiCHZRp
-SnpqiRSGgE70f99E2Jw22AyhlJdmkjoF7d+vYfrJnB9lKQ695ZrfroneQc9Z/s+X
-BhdLTwd99kocDyJlLadxdB+U0BO381q945e+t1QARu2T/tYoMR7blA9cihclSZcf
-CY8fkau95tIiOvqRdIFoBiyJ98oLqo/t+znCdVSexv3pxXwcZPkjebizKoc61X0D
-l++ZUXG6qj2ui+d0eOQRnhwVAwm8iQaLeUXvCgxS8MB7Kyh6VXWMseVKVIN4ydMz
-Tt0gm3S96JqnMdfhbUqoMiSE6BU5w4xPDRH8OzKB1fRDeH3YeWA4nqTwIAunDRs=
-=AsAA
+iQEcBAEBAgAGBQJTkI8tAAoJEDrzFaM1yUMIE8cIAJsBQp4jL4gJUX947D8kYx4W
+fYA6KqYyEBlb5E79pu0fVFgCaTsQpOOm8DeKqb/jw44HuuCNBnLd4OSkI2MfyaqL
+4lk3zIIztNwX5l+EHI9whkCYaYjEzmmw5FeXq/xRvhnlvLz6p03snIqtmaLiBOlX
+Ck4kQHOFkuTZNnu+tijvjdkMNpF9TCbTRO7fjoeZdOT340BwTEoYOf4JHo4QYlci
+eOjs5LvqEc8L6prcB+mGp3fG76E2Tj/jqRJ5dXDheHT5sRfxJkxM0aESXyz391Mt
+Ns+M9pTfalsl5RFhQL1zeE0PYiRy1kEe8irxP3/offvgc20p01F9clqU8dgVKKM=
+=DpI2
 -----END PGP SIGNATURE-----
