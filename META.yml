@@ -29,4 +29,4 @@ requires:
   RT::Extension::MergeUsers: 0
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: '0.06'
+version: '0.07'
