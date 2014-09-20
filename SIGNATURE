@@ -14,13 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 584cc5af0d110a54521a2c92872dfc070a73d173 Changes
+SHA1 c3796ce33a3c6ae8425dde4624b9fd27a4185dfe Changes
 SHA1 26e0fbf5ccc2cc0fabfdd6bf25599f5b1ab92191 MANIFEST
-SHA1 96fb1daa671e39694a872314f2c81d855d3a158b META.yml
+SHA1 54903ffb41b26a5c9d9ba5f25d7d78f586ebdb38 META.yml
 SHA1 f0588c6f007013869e3968b15ac75448a8130c23 Makefile.PL
 SHA1 5ade10cb6568b245aeac4c9c382df8cc07c0a18a README
 SHA1 1eb9b9b1f43a1570f20480cf3585e111b2c90c1c gitignore
-SHA1 a07280c5b1d222e562d966c257d8d618c0712687 html/Admin/Tools/AutoCreatedUsers.html
+SHA1 fc8a47835b942abcbd40b48c1a5a38bde30e5d11 html/Admin/Tools/AutoCreatedUsers.html
 SHA1 5ad5275713807f0d75ff6642f077c3d0d4b7c59b html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/RT__User/ColumnMap/ColumnMap
 SHA1 cabe5c8c509fe072bf8dbe2667cc493cbde9375e html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/Tabs/Privileged
 SHA1 1bc51475bf9453bc214ab0a02162df1a506cff77 inc/Module/AutoInstall.pm
@@ -39,18 +39,18 @@ SHA1 4c5ce519d404e242418f51dfe761287469e18e3a inc/Module/Install/Win32.pm
 SHA1 47a52cf8719a283c0efa2edab0088b5d67e0f23a inc/Module/Install/WriteAll.pm
 SHA1 3c16e6d36009412be6d2f0e19ebf5aa545fd4979 inc/YAML/Tiny.pm
 SHA1 8105c0510a773b56840995fb4dd2dc64fe9ddaee inc/unicore/Name.pm
-SHA1 7ab1568f70ec419219ba9de2b6f30d8aa26cf6fa lib/RT/Extension/ManageAutoCreatedUsers.pm
+SHA1 3c68ca19ce2b6c796d8724bbec8cc146d0748ef9 lib/RT/Extension/ManageAutoCreatedUsers.pm
 SHA1 b203393260c06bef777dc3620ee0ff584cdc3d43 static/js/manage-autocreated-users.js
 SHA1 6856d095d5dc6b4e554dd0b2b87fabf23f2ee835 xt/basic.t
 SHA1 13a1c64dc30b79cf3c756fec4036aad6944407c7 xt/data/rt4.sql
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJT6QwtAAoJEDrzFaM1yUMIrm8H/3+l61mySweurDQ1FqIf2qGZ
-if6DAkR8hk9P4MsYk0zleP2Pl8uexRZOZb/fceDS1RFPY8bSgbLc9xUkeKGFWgre
-0ZMz2J3P03y8smzz4yU4z+ZBguGMjLkR5pKK0fNnOKjemZg3CLjkOUSX4WMpMYzI
-q0EetgFdGtdEVJ4fI7qIeu4qMHouK/77ptstJaCPHjLKHdjAD/opQYYrizeiJIlI
-6u8FKGK/ASHpDEW3qQzBaSwLoPHNpBoL1b9Xh6sDSkrc0NvjnuiwKD/ifIYQIV+m
-mujiDn6o1i3VKgFuOXDAzR590uaf69qyIoSTUubqcuaz7+OmkXP+Kbg4JAMKm1E=
-=w9R3
+iQEcBAEBAgAGBQJT/8m8AAoJEDrzFaM1yUMId08H/0U98joDw0pPDesdWj2zhMLE
+u+zWaK3xHT/fj5yA1T8BINcHmUZ5RzpsAU9C16iRGuYsxGGgB06tjZnmqqet2r2Q
+BVdqDbw+6qP3VKmU0PwkE8BOvBEMnrpTjhMCSPnSf7Rp1udewHGkHAafYCUQFFdU
+qoM37iRHqOydTjPwjLO+S0k9aPTqz1tz+zg8qEMNCW6yA5SrEor9+IkfpU9eZ8Ze
+XhY9I1LGONRMu0n4k3EHkXRoS0GX5APOTRf0erspkawcwNY6kUK9iP4tyFHE/Wab
+6rgvhsfZZ/POy5y907ajRW2rEINzWBL8rNdz4i8ZWTISk5jxyMbkdUqE9rLOyKs=
+=Zbp9
 -----END PGP SIGNATURE-----
