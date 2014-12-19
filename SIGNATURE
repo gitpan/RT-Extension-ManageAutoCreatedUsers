@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c3796ce33a3c6ae8425dde4624b9fd27a4185dfe Changes
-SHA1 26e0fbf5ccc2cc0fabfdd6bf25599f5b1ab92191 MANIFEST
-SHA1 54903ffb41b26a5c9d9ba5f25d7d78f586ebdb38 META.yml
-SHA1 f0588c6f007013869e3968b15ac75448a8130c23 Makefile.PL
-SHA1 5ade10cb6568b245aeac4c9c382df8cc07c0a18a README
+SHA1 cf389662c16b734d6fcec3d9cb0541b15e3ed3f3 Changes
+SHA1 3e6c3ffa40fc37cd516d6a98615c2c61f66de499 MANIFEST
+SHA1 fed0869695c14874ee917a609903a349ab915e23 META.yml
+SHA1 5dba4c3c43357edf348aa2c755d0d26f430dca24 Makefile.PL
+SHA1 c04eca50ec0a6bfe68356d130df7b3a557906d2d README
 SHA1 1eb9b9b1f43a1570f20480cf3585e111b2c90c1c gitignore
 SHA1 fc8a47835b942abcbd40b48c1a5a38bde30e5d11 html/Admin/Tools/AutoCreatedUsers.html
 SHA1 5ad5275713807f0d75ff6642f077c3d0d4b7c59b html/Callbacks/RT-Extension-ManageAutoCreatedUsers/Elements/RT__User/ColumnMap/ColumnMap
@@ -32,25 +32,25 @@ SHA1 363c8931cc183444907684b71d6a379e4fc8edcb inc/Module/Install/Fetch.pm
 SHA1 0c70de66cdd063352766d49db176e5f710f75fe7 inc/Module/Install/Include.pm
 SHA1 26ae1c0f5f352037b560414f216d7e3ac682f936 inc/Module/Install/Makefile.pm
 SHA1 ff97eb025b44c343d026c2a56a73d50c65319e95 inc/Module/Install/Metadata.pm
-SHA1 3b092ed8ce4fa9ed6667f681b54f4a624695e508 inc/Module/Install/RTx.pm
+SHA1 acbf148a1e6067cc677c89da2bfe1ae4b0b1e01b inc/Module/Install/RTx.pm
 SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 4c5ce519d404e242418f51dfe761287469e18e3a inc/Module/Install/Win32.pm
 SHA1 47a52cf8719a283c0efa2edab0088b5d67e0f23a inc/Module/Install/WriteAll.pm
 SHA1 3c16e6d36009412be6d2f0e19ebf5aa545fd4979 inc/YAML/Tiny.pm
 SHA1 8105c0510a773b56840995fb4dd2dc64fe9ddaee inc/unicore/Name.pm
-SHA1 3c68ca19ce2b6c796d8724bbec8cc146d0748ef9 lib/RT/Extension/ManageAutoCreatedUsers.pm
+SHA1 dbcbe16ee8bf0d16d2f6b2e4532990a8481f4a97 lib/RT/Extension/ManageAutoCreatedUsers.pm
 SHA1 b203393260c06bef777dc3620ee0ff584cdc3d43 static/js/manage-autocreated-users.js
 SHA1 6856d095d5dc6b4e554dd0b2b87fabf23f2ee835 xt/basic.t
 SHA1 13a1c64dc30b79cf3c756fec4036aad6944407c7 xt/data/rt4.sql
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJT/8m8AAoJEDrzFaM1yUMId08H/0U98joDw0pPDesdWj2zhMLE
-u+zWaK3xHT/fj5yA1T8BINcHmUZ5RzpsAU9C16iRGuYsxGGgB06tjZnmqqet2r2Q
-BVdqDbw+6qP3VKmU0PwkE8BOvBEMnrpTjhMCSPnSf7Rp1udewHGkHAafYCUQFFdU
-qoM37iRHqOydTjPwjLO+S0k9aPTqz1tz+zg8qEMNCW6yA5SrEor9+IkfpU9eZ8Ze
-XhY9I1LGONRMu0n4k3EHkXRoS0GX5APOTRf0erspkawcwNY6kUK9iP4tyFHE/Wab
-6rgvhsfZZ/POy5y907ajRW2rEINzWBL8rNdz4i8ZWTISk5jxyMbkdUqE9rLOyKs=
-=Zbp9
+iQEcBAEBAgAGBQJUlIHrAAoJEDrzFaM1yUMI184H/1EntUa+rN6ymkSjk2b+Sgys
+JdpelZrlZJV6bg/FCW7ymFwbaQlh3D467Yz7G40sHhbUo4kjzruHRhgspJphy1E6
+mNqIPA6IE4aVuGZJVWnH1Gutuh9YO6iM8l6QJ3yx7YPDUUyZLCgsrCZnByKEv2Ru
+D0+72zoEV2T/mICO4zzI85dyj/n9NmPEIjsELTrXAKIvfBr3aRe39nI0BVnH90Ha
+TFWCTOAlZ1soHpHKsWacCnsXNoLw7JkTW+4HYtWYQtK3hbfinQ02ild108qo5OS+
+64sSSZr2rkmCN+sMRVAfVAAk31UBfaP94U5lf22SZh/HA8k+wqNwszjMMW5hAeM=
+=0VzK
 -----END PGP SIGNATURE-----

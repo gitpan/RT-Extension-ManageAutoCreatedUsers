@@ -24,6 +24,7 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+RT-Extension-ManageAutoCreatedUsers-0.10/SIGNATURE
 static/js/manage-autocreated-users.js
 xt/basic.t
 xt/data/rt4.sql

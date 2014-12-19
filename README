@@ -16,28 +16,24 @@ DESCRIPTION
 
     The tool attempts to supply a suggested user to merge into based on a
     simple heuristic which assumes the correct email address from the
-    "RTxAutoUserMailDomain" config option. If any of the options are
-    selected, the user will not appear in the listing again.
+    RTxAutoUserMailDomain config option. If any of the options are selected,
+    the user will not appear in the listing again.
 
 RT VERSION
     Works with RT 4.2
 
 INSTALLATION
-    "perl Makefile.PL"
-    "make"
-    "make install"
+    perl Makefile.PL
+    make
+    make install
         May need root permissions
 
     Edit your /opt/rt4/etc/RT_SiteConfig.pm
-        If you are using RT 4.2 or greater, add this line:
-
-            Plugin('RT::Extension::ManageAutoCreatedUsers');
-
-        For RT 3.8 and 4.0, add this line:
+        Add this line:
 
             Set(@Plugins, qw(RT::Extension::ManageAutoCreatedUsers));
 
-        or add "RT::Extension::ManageAutoCreatedUsers" to your existing
+        or add RT::Extension::ManageAutoCreatedUsers to your existing
         @Plugins line.
 
     Clear your mason cache
@@ -46,7 +42,7 @@ INSTALLATION
     Restart your webserver
 
 AUTHOR
-    Wallace Reis <wreis@cpan.org>
+    Best Practical Solutions, LLC <modules@bestpractical.com>
 
 BUGS
     All bugs should be reported via email to

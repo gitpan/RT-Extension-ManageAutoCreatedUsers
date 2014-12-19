@@ -1,7 +1,7 @@
 ---
 abstract: 'RT-Extension-ManageAutoCreatedUsers Extension'
 author:
-  - 'Wallace Reis <wreis@cpan.org>'
+  - 'Best Practical Solutions, LLC <modules@bestpractical.com>'
 build_requires:
   ExtUtils::MakeMaker: 6.59
   Test::More: 0
@@ -30,8 +30,8 @@ requires:
   perl: 5.10.1
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: '0.09'
-x_module_install_rtx_version: 0.34_04
+version: '0.10'
+x_module_install_rtx_version: '0.36'
 x_requires_rt: 4.2.0
 x_requires_rt_plugins:
   - RT::Extension::MergeUsers
